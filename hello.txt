@@ -14,3 +14,4 @@ hello xutao! hello git!
 hello xutao! hello git!
 hello xutao! hello git! master test
 hello xutao! hello git!
+hello xutao! hello git! hot-fix test
